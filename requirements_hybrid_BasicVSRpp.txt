@@ -1,0 +1,8 @@
+opencv-python
+numpy
+# For Real-ESRGAN backend (optional):
+torch
+torchvision
+realesrgan
+basicsr
+# For BasicVSR++ (external, install separately via MMEditing; see README)
